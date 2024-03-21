@@ -1,3 +1,0 @@
-Testando o repositório
-Incluindo uma mudança no arquivo
-Testando pull/push com repositórios locais diferentes
